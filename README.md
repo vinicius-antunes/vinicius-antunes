@@ -59,8 +59,9 @@ Continuar desenvolvendo projetos práticos, fortalecer meus conhecimentos em pro
 
 ## 📫 Contato
 
-- [LinkedIn](COLOQUE-AQUI-O-LINK-DO-LINKEDIN)
-- [GitHub](https://github.com/vinicius-antunes)
+- <a href="https://www.linkedin.com/in/viniciusabemp/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 
