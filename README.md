@@ -28,11 +28,23 @@ Landing page de uma plataforma fictícia de streaming, com identidade visual em 
 **Tecnologias:** HTML e CSS  
 **Próxima etapa:** adicionar JavaScript e integrar um agente de recomendação de filmes.
 
+<a href="https://github.com/vinicius-antunes/vibeflix-landing-page" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do VibeFlix">
+</a>
+
+---
+
 ### 🛒 Lista de Compras
 
 Aplicação desenvolvida durante meus estudos de JavaScript. Permite adicionar itens dinamicamente e marcá-los como concluídos.
 
 **Tecnologias:** HTML, CSS e JavaScript
+
+<a href="LINK-DO-REPOSITORIO-DA-LISTA" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Lista de Compras">
+</a>
+
+---
 
 ### 🔢 Jogo do Número Secreto
 
@@ -40,11 +52,21 @@ Jogo interativo em que o usuário precisa descobrir um número gerado aleatoriam
 
 **Tecnologias:** HTML, CSS e JavaScript
 
+<a href="LINK-DO-REPOSITORIO-DO-JOGO" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Número Secreto">
+</a>
+
+---
+
 ### 📷 Galeria Django
 
 Projeto de uma galeria de imagens desenvolvido para praticar os principais conceitos do framework Django.
 
 **Tecnologias:** Python, Django, HTML e CSS
+
+<a href="LINK-DO-REPOSITORIO-DA-GALERIA" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Galeria Django">
+</a>
 
 ## 🎯 Objetivo
 
@@ -52,9 +74,18 @@ Continuar desenvolvendo projetos práticos, fortalecer meus conhecimentos em pro
 
 ## 📊 Estatísticas do GitHub
 
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinicius-antunes&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-antunes&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas"/>
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=vinicius-antunes&show_icons=true&locale=pt-br&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2&border_color=8A2BE2"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-antunes&layout=compact&locale=pt-br&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&border_color=8A2BE2"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
 ## 📫 Contato
