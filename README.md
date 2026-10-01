@@ -89,25 +89,9 @@ Continuar desenvolvendo projetos práticos, fortalecer meus conhecimentos em pro
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <img
-    width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-antunes&theme=2077"
-    alt="Resumo do perfil"
-  >
-
-  <img
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius-antunes&theme=2077"
-    alt="Estatísticas do GitHub"
-  >
-
-  <img
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinicius-antunes&theme=2077"
-    alt="Linguagens por repositório"
-  >
-
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-antunes&theme=2077&v=20261001" alt="Resumo do perfil">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius-antunes&theme=2077&v=20261001" alt="Estatísticas do GitHub">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinicius-antunes&theme=2077&v=20261001" alt="Linguagens por repositório">
 </div>
 
 ## 📫 Contato
