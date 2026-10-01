@@ -7,7 +7,7 @@ Atualmente, estou aprimorando meus conhecimentos em **desenvolvimento web, JavaS
 ## 🚀 Tecnologias e ferramentas
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" alt="Tecnologias e ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" alt="Tecnologias e ferramentas">
 </div>
 
 ## 📚 Atualmente estudando
@@ -25,7 +25,7 @@ Atualmente, estou aprimorando meus conhecimentos em **desenvolvimento web, JavaS
 
 Landing page de uma plataforma fictícia de streaming, com identidade visual em preto e roxo neon e foco em filmes de terror e suspense.
 
-**Tecnologias:** HTML e CSS  
+**Tecnologias:** HTML e CSS<br>
 **Próxima etapa:** adicionar JavaScript e integrar um agente de recomendação de filmes.
 
 <a href="https://github.com/vinicius-antunes/vibeflix-landing-page" target="_blank">
@@ -40,8 +40,34 @@ Aplicação desenvolvida durante meus estudos de JavaScript. Permite adicionar i
 
 **Tecnologias:** HTML, CSS e JavaScript
 
-<a href="LINK-DO-REPOSITORIO-DA-LISTA" target="_blank">
+<a href="https://github.com/vinicius-antunes/lista-de-compras-js" target="_blank">
   <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Lista de Compras">
+</a>
+
+---
+
+### 📚 Catálogo de Livros
+
+Catálogo dinâmico de livros de tecnologia com filtros por categoria e disponibilidade, ordenação por preço e cálculo do valor total.
+
+**Tecnologias:** HTML, CSS e JavaScript<br>
+**Conceitos:** Fetch API, DOM, `forEach`, `map`, `filter`, `sort` e `reduce`.
+
+<a href="https://github.com/vinicius-antunes/catalogo-de-livros-js" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Catálogo de Livros">
+</a>
+
+---
+
+### 💻 CodeConnect
+
+Interface para publicação de projetos de programação, com pré-visualização de imagem, formulário, gerenciamento de tags e simulação assíncrona de publicação.
+
+**Tecnologias:** HTML, CSS e JavaScript<br>
+**Conceitos:** FileReader, promises, `async/await`, eventos e manipulação do DOM.
+
+<a href="https://github.com/vinicius-antunes/codeconnect-js" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do CodeConnect">
 </a>
 
 ---
@@ -52,20 +78,8 @@ Jogo interativo em que o usuário precisa descobrir um número gerado aleatoriam
 
 **Tecnologias:** HTML, CSS e JavaScript
 
-<a href="LINK-DO-REPOSITORIO-DO-JOGO" target="_blank">
+<a href="https://github.com/vinicius-antunes/Projeto-Numero-Secreto" target="_blank">
   <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Número Secreto">
-</a>
-
----
-
-### 📷 Galeria Django
-
-Projeto de uma galeria de imagens desenvolvido para praticar os principais conceitos do framework Django.
-
-**Tecnologias:** Python, Django, HTML e CSS
-
-<a href="LINK-DO-REPOSITORIO-DA-GALERIA" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Galeria Django">
 </a>
 
 ## 🎯 Objetivo
@@ -80,25 +94,25 @@ Continuar desenvolvendo projetos práticos, fortalecer meus conhecimentos em pro
     width="95%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-antunes&theme=2077"
     alt="Resumo do perfil"
-  />
+  >
 
   <img
     width="47%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius-antunes&theme=2077"
     alt="Estatísticas do GitHub"
-  />
+  >
 
   <img
     width="47%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinicius-antunes&theme=2077"
     alt="Linguagens por repositório"
-  />
+  >
 
 </div>
 
 ## 📫 Contato
 
-- <a href="https://www.linkedin.com/in/viniciusabemp/" target="_blank">
+<a href="https://www.linkedin.com/in/viniciusabemp/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
