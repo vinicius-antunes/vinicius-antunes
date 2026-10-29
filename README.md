@@ -30,13 +30,7 @@
 
 </details>
 
-<img src="./assets/equipamentos.svg" alt="Equipamentos de estúdio: tecnologias com as quais tive contato e continuo explorando." width="100%">
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" alt="HTML, CSS, JavaScript, Python, Django, Git, GitHub e VS Code">
-</p>
-
-<img src="./assets/em-reproducao.svg" alt="Em reprodução: aprendizado contínuo em Python, desenvolvimento web, APIs, SQL, Git e IA." width="100%">
+<img src="./assets/equipamentos.svg" alt="Tecnologias e ferramentas: HTML, CSS, JavaScript, Python, Django, Git, GitHub e VS Code." width="100%">
 
 ## 📊 Disco em números — estatísticas do GitHub
 
