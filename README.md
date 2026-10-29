@@ -21,64 +21,97 @@ Atualmente, estou aprimorando meus conhecimentos em **desenvolvimento web, JavaS
 
 ## 💻 Projetos em destaque
 
+### 🔎 AmbiDiff
+
+Ferramenta local para comparar ambientes web e organizar divergências em relatórios com evidências, apoiando a revisão humana.
+
+**Tecnologias:** Python, Flask e Playwright
+
+<a href="https://github.com/vinicius-antunes/AmbiDiff">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do AmbiDiff">
+</a>
+
+---
+
 ### 🎬 VibeFlix
 
-Landing page de uma plataforma fictícia de streaming, com identidade visual em preto e roxo neon e foco em filmes de terror e suspense.
+Landing page fictícia de streaming com identidade visual em preto e roxo neon, dedicada a terror e suspense.
 
-**Tecnologias:** HTML e CSS<br>
-**Próxima etapa:** adicionar JavaScript e integrar um agente de recomendação de filmes.
+**Tecnologias:** HTML e CSS
 
-<a href="https://github.com/vinicius-antunes/vibeflix-landing-page" target="_blank">
+<a href="https://github.com/vinicius-antunes/vibeflix-landing-page">
   <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do VibeFlix">
 </a>
 
 ---
 
-### 🛒 Lista de Compras
+### 💭 Mural de Pensamentos
 
-Aplicação desenvolvida durante meus estudos de JavaScript. Permite adicionar itens dinamicamente e marcá-los como concluídos.
+Aplicação educacional para cadastrar, listar, editar e excluir pensamentos, usando uma API local.
 
-**Tecnologias:** HTML, CSS e JavaScript
+**Tecnologias:** HTML, CSS, JavaScript, Axios e JSON Server
 
-<a href="https://github.com/vinicius-antunes/lista-de-compras-js" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Lista de Compras">
+<a href="https://github.com/vinicius-antunes/mural-de-pensamentos-js">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Mural de Pensamentos">
 </a>
 
 ---
 
-### 📚 Catálogo de Livros
+### 📍 ViaForm
 
-Catálogo dinâmico de livros de tecnologia com filtros por categoria e disponibilidade, ordenação por preço e cálculo do valor total.
+Formulário que consulta a API ViaCEP para preencher automaticamente dados de endereço.
 
-**Tecnologias:** HTML, CSS e JavaScript<br>
-**Conceitos:** Fetch API, DOM, `forEach`, `map`, `filter`, `sort` e `reduce`.
+**Tecnologias:** HTML, CSS, JavaScript e Fetch API
 
-<a href="https://github.com/vinicius-antunes/catalogo-de-livros-js" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Catálogo de Livros">
+<a href="https://github.com/vinicius-antunes/consumo-de-api-js">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do ViaForm">
 </a>
 
 ---
 
 ### 💻 CodeConnect
 
-Interface para publicação de projetos de programação, com pré-visualização de imagem, formulário, gerenciamento de tags e simulação assíncrona de publicação.
+Interface para publicação de projetos com pré-visualização de imagem, gerenciamento de tags e simulação assíncrona.
 
-**Tecnologias:** HTML, CSS e JavaScript<br>
-**Conceitos:** FileReader, promises, `async/await`, eventos e manipulação do DOM.
+**Tecnologias:** HTML, CSS e JavaScript
 
-<a href="https://github.com/vinicius-antunes/codeconnect-js" target="_blank">
+<a href="https://github.com/vinicius-antunes/codeconnect-js">
   <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do CodeConnect">
+</a>
+
+---
+
+### 📚 Catálogo de Livros
+
+Catálogo de livros de tecnologia com filtros, ordenação e cálculo do valor dos títulos disponíveis.
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+<a href="https://github.com/vinicius-antunes/catalogo-de-livros-js">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Catálogo de Livros">
+</a>
+
+---
+
+### 🛒 Lista de Compras
+
+Aplicação desenvolvida durante meus estudos de JavaScript para adicionar e marcar itens de uma lista.
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+<a href="https://github.com/vinicius-antunes/lista-de-compras-js">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Lista de Compras">
 </a>
 
 ---
 
 ### 🔢 Jogo do Número Secreto
 
-Jogo interativo em que o usuário precisa descobrir um número gerado aleatoriamente, recebendo dicas durante as tentativas.
+Jogo interativo em que o usuário tenta descobrir um número gerado aleatoriamente, recebendo dicas durante as tentativas.
 
 **Tecnologias:** HTML, CSS e JavaScript
 
-<a href="https://github.com/vinicius-antunes/Projeto-Numero-Secreto" target="_blank">
+<a href="https://github.com/vinicius-antunes/Projeto-Numero-Secreto">
   <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Número Secreto">
 </a>
 
