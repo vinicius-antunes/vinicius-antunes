@@ -2,46 +2,43 @@
   <img src="./assets/vinyl-sleeve.svg" alt="Capa de vinil de Vinicius Antunes com projetos em destaque" width="100%">
 </p>
 
-# Olá, eu sou Vinicius Antunes 👋
-
-**Estudante de Ciência da Computação · Desenvolvedor em evolução**
-
-Sou de Cuiabá–MT e gosto de transformar ideias em projetos enquanto descubro diferentes áreas da tecnologia. Estou desenvolvendo minha base em programação, aplicações web, APIs e bancos de dados, explorando também o back-end e o uso de IA como apoio ao desenvolvimento.
-
-## 🎧 Liner notes — um pouco sobre mim
-
-Acredito que aprender tecnologia vai além de memorizar linguagens: é entender problemas, testar soluções e evoluir a cada projeto. Uso este espaço para compartilhar meus estudos, experimentos e aplicações em construção.
+<p align="center">
+  <img src="./assets/liner-notes.svg" alt="Ideias em construção: estudante de Ciência da Computação explorando desenvolvimento web, Python e APIs." width="100%">
+</p>
 
 ## 💿 Lado A — projetos em destaque
 
-**A1 · [AmbiDiff](https://github.com/vinicius-antunes/AmbiDiff)**  
-Ferramenta para comparar ambientes de sites e organizar divergências em relatórios. Desenvolvida com apoio de IA, também é meu laboratório para aprender a compreender e manter projetos em Python.
+<a href="https://github.com/vinicius-antunes/AmbiDiff"><img src="./assets/faixa-ambidiff.svg" alt="AmbiDiff: comparação de ambientes e relatórios de divergências. Ver repositório." width="100%"></a>
 
-**A2 · [VibeFlix](https://github.com/vinicius-antunes/vibeflix-landing-page)**  
-Landing page de uma plataforma fictícia com identidade em preto e roxo e foco em terror e suspense. O projeto também inspira meus estudos sobre catálogos e recomendações.
+<a href="https://github.com/vinicius-antunes/vibeflix-landing-page"><img src="./assets/faixa-vibeflix.svg" alt="VibeFlix: landing page sobre terror e suspense. Ver repositório." width="100%"></a>
 
-**A3 · [Mural de Pensamentos](https://github.com/vinicius-antunes/mural-de-pensamentos-js)**  
-Aplicação educacional para cadastrar, listar, editar e excluir pensamentos, praticando JavaScript, Axios e uma API local.
+<a href="https://github.com/vinicius-antunes/mural-de-pensamentos-js"><img src="./assets/faixa-mural.svg" alt="Mural de Pensamentos: CRUD com JavaScript, Axios e API local. Ver repositório." width="100%"></a>
 
 ## 📼 Lado B — estudos e experimentos
 
-**B1 · [CodeConnect](https://github.com/vinicius-antunes/codeconnect-js)** — interface de publicação de projetos com imagem, tags e simulação assíncrona.
+<a href="https://github.com/vinicius-antunes/codeconnect-js"><img src="./assets/faixa-codeconnect.svg" alt="CodeConnect: interface de projetos, imagens e tags. Ver repositório." width="100%"></a>
 
-**B2 · [Catálogo de Livros](https://github.com/vinicius-antunes/catalogo-de-livros-js)** — catálogo com filtros, ordenação e cálculos, criado para praticar métodos de arrays e consumo de dados.
+<a href="https://github.com/vinicius-antunes/catalogo-de-livros-js"><img src="./assets/faixa-catalogo.svg" alt="Catálogo de Livros: filtros, ordenação e consumo de dados. Ver repositório." width="100%"></a>
+
+<details>
+<summary>🎧 Notas sobre os projetos</summary>
+
+- **AmbiDiff:** desenvolvido com apoio de IA, é também meu laboratório para aprender a compreender e manter projetos em Python.
+- **VibeFlix:** uma landing page que inspira meus estudos sobre catálogos e recomendações.
+- **Mural de Pensamentos:** projeto educacional para cadastrar, listar, editar e excluir pensamentos.
+- **CodeConnect e Catálogo de Livros:** experimentos para praticar JavaScript e manipulação do DOM.
+
+</details>
 
 ## 🛠️ Minha caixa de ferramentas
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" alt="HTML, CSS, JavaScript, Python, Django, Git, GitHub e VS Code">
 
-Essas são tecnologias com as quais já tive contato em estudos ou projetos; sigo aprofundando meu conhecimento nelas.
+Tecnologias com as quais já tive contato em estudos ou projetos; sigo aprofundando meu conhecimento nelas.
 
-## 📚 Faixa em reprodução: aprendizado contínuo
+## 📚 Em reprodução: aprendizado contínuo
 
-- Python e compreensão de projetos existentes;
-- Desenvolvimento web, JavaScript e APIs;
-- Banco de dados e SQL;
-- Git, GitHub e boas práticas;
-- Construção de projetos com apoio responsável de IA.
+Python · Desenvolvimento web · APIs · Banco de dados e SQL · Git e GitHub · IA como apoio ao desenvolvimento
 
 ## 📊 Estatísticas do GitHub
 
@@ -64,4 +61,4 @@ Essas são tecnologias com as quais já tive contato em estudos ou projetos; sig
 
 *Cada projeto é uma nova faixa nessa jornada de aprendizado.*
 
-<sub>Arte adaptada do template <a href="https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/10-print-analog/vinyl-sleeve">Vinyl Sleeve</a>.</sub>
+<sub>Arte da capa adaptada do template <a href="https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/10-print-analog/vinyl-sleeve">Vinyl Sleeve</a>.</sub>
