@@ -30,25 +30,23 @@
 
 </details>
 
-## 🛠️ Minha caixa de ferramentas
+<img src="./assets/equipamentos.svg" alt="Equipamentos de estúdio: tecnologias com as quais tive contato e continuo explorando." width="100%">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" alt="HTML, CSS, JavaScript, Python, Django, Git, GitHub e VS Code">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" alt="HTML, CSS, JavaScript, Python, Django, Git, GitHub e VS Code">
+</p>
 
-Tecnologias com as quais já tive contato em estudos ou projetos; sigo aprofundando meu conhecimento nelas.
+<img src="./assets/em-reproducao.svg" alt="Em reprodução: aprendizado contínuo em Python, desenvolvimento web, APIs, SQL, Git e IA." width="100%">
 
-## 📚 Em reprodução: aprendizado contínuo
-
-Python · Desenvolvimento web · APIs · Banco de dados e SQL · Git e GitHub · IA como apoio ao desenvolvimento
-
-## 📊 Estatísticas do GitHub
+## 📊 Disco em números — estatísticas do GitHub
 
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-antunes&theme=2077&v=20261001" alt="Resumo do perfil">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius-antunes&theme=2077&v=20261001" alt="Estatísticas do GitHub">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinicius-antunes&theme=2077&v=20261001" alt="Linguagens por repositório">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-antunes&theme=dracula&title_color=c7a5e4&text_color=eee4f7&bg_color=17111f&border_color=49345e&icon_color=b687dc&chart_color=a879ce" alt="Resumo do perfil">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius-antunes&theme=dracula&title_color=c7a5e4&text_color=eee4f7&bg_color=17111f&border_color=49345e&icon_color=b687dc&chart_color=a879ce" alt="Estatísticas do GitHub">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinicius-antunes&theme=dracula&title_color=c7a5e4&text_color=eee4f7&bg_color=17111f&border_color=49345e&icon_color=b687dc&chart_color=a879ce" alt="Linguagens por repositório">
 </div>
 
-## 📫 Vamos nos conectar?
+<img src="./assets/contracapa.svg" alt="Contracapa: vamos nos conectar? Cada projeto é uma nova faixa nessa jornada." width="100%">
 
 <a href="https://www.linkedin.com/in/viniciusabemp/">
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -58,7 +56,5 @@ Python · Desenvolvimento web · APIs · Banco de dados e SQL · Git e GitHub ·
 </a>
 
 ---
-
-*Cada projeto é uma nova faixa nessa jornada de aprendizado.*
 
 <sub>Arte da capa adaptada do template <a href="https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/10-print-analog/vinyl-sleeve">Vinyl Sleeve</a>.</sub>
