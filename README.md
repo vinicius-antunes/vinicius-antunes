@@ -30,7 +30,7 @@
 
 </details>
 
-<img src="./assets/equipamentos.svg" alt="Tecnologias e ferramentas: HTML, CSS, JavaScript, Python, Django, Git, GitHub e VS Code." width="100%">
+<img src="./assets/tecnologias-icones.svg" alt="Tecnologias e ferramentas: HTML, CSS, JavaScript, Python, Django, Git, GitHub e VS Code." width="100%">
 
 ## 📊 Disco em números — estatísticas do GitHub
 
