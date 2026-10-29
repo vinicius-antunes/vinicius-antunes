@@ -43,30 +43,6 @@ Landing page fictícia de streaming com identidade visual em preto e roxo neon, 
   <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do VibeFlix">
 </a>
 
----
-
-### 💭 Mural de Pensamentos
-
-Aplicação educacional para cadastrar, listar, editar e excluir pensamentos, usando uma API local.
-
-**Tecnologias:** HTML, CSS, JavaScript, Axios e JSON Server
-
-<a href="https://github.com/vinicius-antunes/mural-de-pensamentos-js">
-  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Mural de Pensamentos">
-</a>
-
----
-
-### 📍 ViaForm
-
-Formulário que consulta a API ViaCEP para preencher automaticamente dados de endereço.
-
-**Tecnologias:** HTML, CSS, JavaScript e Fetch API
-
-<a href="https://github.com/vinicius-antunes/consumo-de-api-js">
-  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do ViaForm">
-</a>
-
 
 ## 🎯 Objetivo
 
