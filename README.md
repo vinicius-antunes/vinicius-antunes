@@ -1,54 +1,105 @@
-<p align="center">
-  <img src="./assets/vinyl-sleeve.svg" alt="Capa de vinil de Vinicius Antunes com projetos em destaque" width="100%">
-</p>
+# Olá, eu sou o Vinicius Antunes! 👋
 
-<p align="center">
-  <img src="./assets/liner-notes.svg" alt="Ideias em construção: estudante de Ciência da Computação explorando desenvolvimento web, Python e APIs." width="100%">
-</p>
+Sou estudante de **Ciência da Computação**, de Cuiabá–MT, e estou construindo minha trajetória na área de desenvolvimento de software.
 
-## 💿 Lado A — projetos em destaque
+Atualmente, estou aprimorando meus conhecimentos em **desenvolvimento web, JavaScript, Python e Django**, aplicando o que aprendo em projetos práticos. Tenho facilidade para aprender, gosto de conhecer novas tecnologias e busco evoluir continuamente como desenvolvedor.
 
-<a href="https://github.com/vinicius-antunes/AmbiDiff"><img src="./assets/faixa-ambidiff.svg" alt="AmbiDiff: comparação de ambientes e relatórios de divergências. Ver repositório." width="100%"></a>
+## 🚀 Tecnologias e ferramentas
 
-<a href="https://github.com/vinicius-antunes/vibeflix-landing-page"><img src="./assets/faixa-vibeflix.svg" alt="VibeFlix: landing page sobre terror e suspense. Ver repositório." width="100%"></a>
-
-<a href="https://github.com/vinicius-antunes/mural-de-pensamentos-js"><img src="./assets/faixa-mural.svg" alt="Mural de Pensamentos: CRUD com JavaScript, Axios e API local. Ver repositório." width="100%"></a>
-
-## 📼 Lado B — estudos e experimentos
-
-<a href="https://github.com/vinicius-antunes/codeconnect-js"><img src="./assets/faixa-codeconnect.svg" alt="CodeConnect: interface de projetos, imagens e tags. Ver repositório." width="100%"></a>
-
-<a href="https://github.com/vinicius-antunes/catalogo-de-livros-js"><img src="./assets/faixa-catalogo.svg" alt="Catálogo de Livros: filtros, ordenação e consumo de dados. Ver repositório." width="100%"></a>
-
-<details>
-<summary>🎧 Notas sobre os projetos</summary>
-
-- **AmbiDiff:** desenvolvido com apoio de IA, é também meu laboratório para aprender a compreender e manter projetos em Python.
-- **VibeFlix:** uma landing page que inspira meus estudos sobre catálogos e recomendações.
-- **Mural de Pensamentos:** projeto educacional para cadastrar, listar, editar e excluir pensamentos.
-- **CodeConnect e Catálogo de Livros:** experimentos para praticar JavaScript e manipulação do DOM.
-
-</details>
-
-<img src="./assets/tecnologias-icones.svg" alt="Tecnologias e ferramentas: HTML, CSS, JavaScript, Python, Django, Git, GitHub e VS Code." width="100%">
-
-## 📊 Disco em números — estatísticas do GitHub
-
-<div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-antunes&theme=dracula&title_color=c7a5e4&text_color=eee4f7&bg_color=17111f&border_color=49345e&icon_color=b687dc&chart_color=a879ce" alt="Resumo do perfil">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius-antunes&theme=dracula&title_color=c7a5e4&text_color=eee4f7&bg_color=17111f&border_color=49345e&icon_color=b687dc&chart_color=a879ce" alt="Estatísticas do GitHub">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinicius-antunes&theme=dracula&title_color=c7a5e4&text_color=eee4f7&bg_color=17111f&border_color=49345e&icon_color=b687dc&chart_color=a879ce" alt="Linguagens por repositório">
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" alt="Tecnologias e ferramentas">
 </div>
 
-<img src="./assets/contracapa.svg" alt="Contracapa: vamos nos conectar? Cada projeto é uma nova faixa nessa jornada." width="100%">
+## 📚 Atualmente estudando
 
-<a href="https://www.linkedin.com/in/viniciusabemp/">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/vinicius-antunes">
-  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+- JavaScript e manipulação do DOM
+- Desenvolvimento de aplicações web
+- Python e Django
+- Git e GitHub
+- Consumo e integração de APIs
+- Lógica de programação e boas práticas
+
+## 💻 Projetos em destaque
+
+### 🎬 VibeFlix
+
+Landing page de uma plataforma fictícia de streaming, com identidade visual em preto e roxo neon e foco em filmes de terror e suspense.
+
+**Tecnologias:** HTML e CSS<br>
+**Próxima etapa:** adicionar JavaScript e integrar um agente de recomendação de filmes.
+
+<a href="https://github.com/vinicius-antunes/vibeflix-landing-page" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do VibeFlix">
 </a>
 
 ---
 
-<sub>Arte da capa adaptada do template <a href="https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/10-print-analog/vinyl-sleeve">Vinyl Sleeve</a>.</sub>
+### 🛒 Lista de Compras
+
+Aplicação desenvolvida durante meus estudos de JavaScript. Permite adicionar itens dinamicamente e marcá-los como concluídos.
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+<a href="https://github.com/vinicius-antunes/lista-de-compras-js" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Lista de Compras">
+</a>
+
+---
+
+### 📚 Catálogo de Livros
+
+Catálogo dinâmico de livros de tecnologia com filtros por categoria e disponibilidade, ordenação por preço e cálculo do valor total.
+
+**Tecnologias:** HTML, CSS e JavaScript<br>
+**Conceitos:** Fetch API, DOM, `forEach`, `map`, `filter`, `sort` e `reduce`.
+
+<a href="https://github.com/vinicius-antunes/catalogo-de-livros-js" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Catálogo de Livros">
+</a>
+
+---
+
+### 💻 CodeConnect
+
+Interface para publicação de projetos de programação, com pré-visualização de imagem, formulário, gerenciamento de tags e simulação assíncrona de publicação.
+
+**Tecnologias:** HTML, CSS e JavaScript<br>
+**Conceitos:** FileReader, promises, `async/await`, eventos e manipulação do DOM.
+
+<a href="https://github.com/vinicius-antunes/codeconnect-js" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do CodeConnect">
+</a>
+
+---
+
+### 🔢 Jogo do Número Secreto
+
+Jogo interativo em que o usuário precisa descobrir um número gerado aleatoriamente, recebendo dicas durante as tentativas.
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+<a href="https://github.com/vinicius-antunes/Projeto-Numero-Secreto" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Número Secreto">
+</a>
+
+## 🎯 Objetivo
+
+Continuar desenvolvendo projetos práticos, fortalecer meus conhecimentos em programação e conquistar novas oportunidades na área de tecnologia.
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-antunes&theme=2077&v=20261001" alt="Resumo do perfil">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius-antunes&theme=2077&v=20261001" alt="Estatísticas do GitHub">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinicius-antunes&theme=2077&v=20261001" alt="Linguagens por repositório">
+</div>
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/viniciusabemp/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+---
+
+⭐ Este perfil acompanha minha evolução, meus estudos e os projetos que estou construindo.
