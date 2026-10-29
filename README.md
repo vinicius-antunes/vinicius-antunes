@@ -67,53 +67,6 @@ Formulário que consulta a API ViaCEP para preencher automaticamente dados de en
   <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do ViaForm">
 </a>
 
----
-
-### 💻 CodeConnect
-
-Interface para publicação de projetos com pré-visualização de imagem, gerenciamento de tags e simulação assíncrona.
-
-**Tecnologias:** HTML, CSS e JavaScript
-
-<a href="https://github.com/vinicius-antunes/codeconnect-js">
-  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do CodeConnect">
-</a>
-
----
-
-### 📚 Catálogo de Livros
-
-Catálogo de livros de tecnologia com filtros, ordenação e cálculo do valor dos títulos disponíveis.
-
-**Tecnologias:** HTML, CSS e JavaScript
-
-<a href="https://github.com/vinicius-antunes/catalogo-de-livros-js">
-  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Catálogo de Livros">
-</a>
-
----
-
-### 🛒 Lista de Compras
-
-Aplicação desenvolvida durante meus estudos de JavaScript para adicionar e marcar itens de uma lista.
-
-**Tecnologias:** HTML, CSS e JavaScript
-
-<a href="https://github.com/vinicius-antunes/lista-de-compras-js">
-  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Lista de Compras">
-</a>
-
----
-
-### 🔢 Jogo do Número Secreto
-
-Jogo interativo em que o usuário tenta descobrir um número gerado aleatoriamente, recebendo dicas durante as tentativas.
-
-**Tecnologias:** HTML, CSS e JavaScript
-
-<a href="https://github.com/vinicius-antunes/Projeto-Numero-Secreto">
-  <img src="https://img.shields.io/badge/Ver_repositório-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Número Secreto">
-</a>
 
 ## 🎯 Objetivo
 
